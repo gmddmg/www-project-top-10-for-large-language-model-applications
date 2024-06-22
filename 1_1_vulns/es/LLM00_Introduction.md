@@ -12,7 +12,7 @@ La ausencia de un recurso unificado que aborde estas preocupaciones de seguridad
 Nuestra audiencia principal son los desarrolladores, científicos de datos y expertos en seguridad encargados de diseñar y construir aplicaciones y complementos que aprovechan las tecnologías LLM. Nuestro objetivo es proporcionar orientación de seguridad práctica, accionable y concisa para ayudar a estos profesionales a navegar por el terreno complejo y en constante evolución de la seguridad de las aplicaciones LLM.
 
 ### La Creación de la Lista
-Crear la lista OWASP Top 10 para Aplicaciones LLM fue una tarea significativa, construida sobre la experiencia colectiva de un equipo internacional de casi 500 expertos con más de 125 colaboradores activos. Nuestros colaboradores provienen de diversos antecedentes, incluyendo empresas de IA, empresas de seguridad, ISVs, hiperescaladores en la nube, proveedores de hardware y el ámbito académico.
+Crear la lista OWASP Top 10 para Aplicaciones LLM fue una tarea significativa, construida sobre la experiencia colectiva de un equipo internacional de casi 500 expertos con más de 125 colaboradores activos. Nuestros colaboradores provienen de diversos ámbitos, incluyendo empresas de IA, empresas de seguridad, ISVs, hiperescaladores en la nube, proveedores de hardware y el ámbito académico.
 
 Durante un mes, realizamos lluvias de ideas y propusimos vulnerabilidades potenciales, con miembros del equipo redactando 43 amenazas distintas. A través de múltiples rondas de votación, refinamos estas propuestas a una lista concisa de las diez vulnerabilidades más críticas. Subequipos dedicados examinaron cada vulnerabilidad y la sometieron a revisión pública, asegurando la lista final más completa y accionable.
 
