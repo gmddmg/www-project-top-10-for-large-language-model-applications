@@ -6,7 +6,7 @@ Publicado: 16 de Octubre de 2023
 
 El frenesí de interés en los Modelos de Lenguaje de Gran Escala (LLMs) tras el lanzamiento de chatbots pre-entrenados para el mercado masivo a finales de 2022 ha sido notable. Las empresas, ansiosas por aprovechar el potencial de los LLMs, los están integrando rápidamente en sus operaciones y ofertas orientadas al cliente. Sin embargo, la velocidad vertiginosa con la que se están adoptando los LLMs ha superado el establecimiento de protocolos de seguridad integrales, dejando muchas aplicaciones vulnerables a problemas de alto riesgo.
 
-La ausencia de un recurso unificado que aborde estas preocupaciones de seguridad en los LLMs era evidente. Los desarrolladores, no familiarizados con los riesgos específicos asociados con los LLMs, se encontraban con recursos dispersos y la misión de OWASP parecía encajar perfectamente para ayudar a impulsar una adopción más segura de esta tecnología.
+La necesidad de un recurso unificado que aborde estas preocupaciones de seguridad en los LLMs era evidente. Los desarrolladores, no familiarizados con los riesgos específicos asociados con los LLMs, se encontraban con recursos dispersos y la misión de OWASP parecía encajar perfectamente para ayudar a impulsar una adopción más segura de esta tecnología.
 
 ### ¿A quién va dirigido?
 Nuestra audiencia principal son los desarrolladores, científicos de datos y expertos en seguridad encargados de diseñar y construir aplicaciones y complementos que aprovechan las tecnologías LLM. Nuestro objetivo es proporcionar orientación de seguridad práctica, accionable y concisa para ayudar a estos profesionales a navegar por el terreno complejo y en constante evolución de la seguridad de las aplicaciones LLM.
